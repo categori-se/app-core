@@ -1,0 +1,10 @@
+[
+  ".github/workflows/test.yml",
+  "LICENSE",
+  "NOTICE",
+  "README.md",
+  "package.json",
+  "public-files.json",
+  "scripts/check-public-tree.py",
+  "styles/theme.css"
+]
